@@ -1,0 +1,4 @@
+free 8192
+allocated 8192
+allocated 16384
+free 32768
